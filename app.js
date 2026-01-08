@@ -28,3 +28,8 @@ app.get('/project/:id', (req, res) => {
   const project = projects.find(project => project.id === parseInt(id));
   res.render('project', { project });
 });
+
+// Start server on port 3000
+app.listen(3000, () => {
+  console.log('The application is listening on port 3000');
+});
