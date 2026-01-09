@@ -5,9 +5,9 @@
       "project_name": "A Random Quote Generator",
       "description": "This project features a simple application that displays a random quote each time a button is clicked. I created an array of quotes from notable figures and wrote functions to select and display them. This helped me practice basic JavaScript concepts like arrays and functions.",
       "technologies": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "live_link": "https://chriswatnee.github.io/a-random-quote-generator",
       "github_link": "https://github.com/chriswatnee/a-random-quote-generator",
@@ -21,9 +21,9 @@
       "project_name": "Data Pagination and Filtering",
       "description": "In this project, I implemented pagination for a student list that starts with 42 entries. Using JavaScript, I enabled the display of nine students per page, adding navigation for users to browse through the entire list. This ensures adaptability for any number of student records.",
       "technologies": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "live_link": "https://chriswatnee.github.io/data-pagination-and-filtering",
       "github_link": "https://github.com/chriswatnee/data-pagination-and-filtering",
@@ -38,9 +38,9 @@
       "project_name": "Interactive Form",
       "description": "For this project, I enhanced a registration form for a fictional Full Stack conference by adding JavaScript functionality. I focused on input validation and interactive feedback, helping users identify errors in real-time. This made the form more user-friendly and efficient.",
       "technologies": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "live_link": "https://chriswatnee.github.io/interactive-form",
       "github_link": "https://github.com/chriswatnee/interactive-form",
@@ -56,9 +56,9 @@
       "project_name": "OOP Game Show App",
       "description": "I developed a word guessing game named \"Phrase Hunter,\" where users try to guess a hidden phrase by clicking on letters. This project utilized Object-Oriented Programming principles, allowing me to create an engaging and interactive experience for players.",
       "technologies": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "live_link": "https://chriswatnee.github.io/oop-game-show-app",
       "github_link": "https://github.com/chriswatnee/oop-game-show-app",
@@ -74,9 +74,9 @@
       "project_name": "Public API Requests",
       "description": "In this project, I built an employee directory for a fictional company called Awesome Startup, using the Random User Generator API. The application pulls data for 12 employees, displaying their details in a grid format with additional info available in a modal. This showcases my ability to work with APIs and manage asynchronous data effectively.",
       "technologies": [
-        "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "JavaScript"
       ],
       "live_link": "https://chriswatnee.github.io/public-api-requests",
       "github_link": "https://github.com/chriswatnee/public-api-requests",
