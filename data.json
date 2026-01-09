@@ -11,7 +11,7 @@
       ],
       "live_link": "https://chriswatnee.github.io/a-random-quote-generator",
       "github_link": "https://github.com/chriswatnee/a-random-quote-generator",
-      "images_urls": [
+      "image_urls": [
         "/static/images/a-random-quote-generator-thumbnail.png",
         "/static/images/a-random-quote-generator-img-01.png"
       ]
@@ -27,7 +27,7 @@
       ],
       "live_link": "https://chriswatnee.github.io/data-pagination-and-filtering",
       "github_link": "https://github.com/chriswatnee/data-pagination-and-filtering",
-      "images_urls": [
+      "image_urls": [
         "/static/images/data-pagination-and-filtering-thumbnail.png",
         "/static/images/data-pagination-and-filtering-img-01.png",
         "/static/images/data-pagination-and-filtering-img-02.png"
@@ -44,7 +44,7 @@
       ],
       "live_link": "https://chriswatnee.github.io/interactive-form",
       "github_link": "https://github.com/chriswatnee/interactive-form",
-      "images_urls": [
+      "image_urls": [
         "/static/images/interactive-form-thumbnail.png",
         "/static/images/interactive-form-img-01.png",
         "/static/images/interactive-form-img-02.png",
@@ -62,7 +62,7 @@
       ],
       "live_link": "https://chriswatnee.github.io/oop-game-show-app",
       "github_link": "https://github.com/chriswatnee/oop-game-show-app",
-      "images_urls": [
+      "image_urls": [
         "/static/images/oop-game-show-app-thumbnail.png",
         "/static/images/oop-game-show-app-img-01.png",
         "/static/images/oop-game-show-app-img-02.png",
@@ -80,7 +80,7 @@
       ],
       "live_link": "https://chriswatnee.github.io/public-api-requests",
       "github_link": "https://github.com/chriswatnee/public-api-requests",
-      "images_urls": [
+      "image_urls": [
         "/static/images/public-api-requests-thumbnail.png",
         "/static/images/public-api-requests-img-01.png",
         "/static/images/public-api-requests-img-02.png"
